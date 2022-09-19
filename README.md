@@ -1,4 +1,4 @@
-work in progress:
+work progress:
 XXXXXX0000 ~60%
 
 docs progress:
