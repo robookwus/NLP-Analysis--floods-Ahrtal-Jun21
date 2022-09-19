@@ -3,6 +3,7 @@ XXXXXX0000 ~60%
 
 docs progress:
 x000000000 ~<10%
+sub.wiki ~1%
 
 latex progress:
 0000000000 ~3%
