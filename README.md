@@ -1,5 +1,5 @@
 work progress:
-XXXXXX0000 ~67%
+XXXXXXx000 ~67%
 
 docs progress:
 x000000000 ~<10%
