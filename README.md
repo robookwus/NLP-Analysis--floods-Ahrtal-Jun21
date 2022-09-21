@@ -8,7 +8,7 @@ sub.wiki ~1%
 latex progress:
 0000000000 ~3%
 
-(full) days left to submit = 10
+(full) days left to submit = 9
 # NLP-Analysis--floods-Ahrtal-Jun21
 Analyzing how the floods in the German Ahrtal (Jun21) impacted the public opinion regarding climate change
 
