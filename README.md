@@ -6,7 +6,7 @@ X000000000 ~<11%
 sub.wiki ~1%
 
 latex progress:
-XX00000000 ~20%
+XXX0000000 ~55%
 
 (full) days left to submit = 8
 # NLP-Analysis--floods-Ahrtal-Jun21
