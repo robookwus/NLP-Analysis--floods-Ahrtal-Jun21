@@ -2,7 +2,7 @@ work progress:
 XXXXXXX000 ~70%
 
 docs progress:
-X000000000 ~<11%
+XXX0000000 ~30%
 sub.wiki ~1%
 
 latex progress:
