@@ -18,8 +18,8 @@ Analyzing how the floods in the German Ahrtal (Jun21) impacted the public opinio
 
 Our main focus here is to find the answers to the following major questions:
 
-1: Total number of tweets (frequency) each day before and after the floods.\n
-2: Overall intensity of all the tweets pre- and post- event.\n
+1: Total number of tweets (frequency) each day before and after the floods.                                                                                       
+2: Overall intensity of all the tweets pre- and post- event.\n                                                                                                
 3: Overall intensity of the tweets of the same users pre- and post- event.\n
 
 
