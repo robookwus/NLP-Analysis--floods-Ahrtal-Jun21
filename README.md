@@ -26,11 +26,10 @@ Our main focus here is to find the answers to the following major questions:
 DATA description:
 We used the twitter data for the analysis.
 The data consists of three columns:
-date
 
-User
-
-Tweet
+date: shows the date with exact timestamp when the tweet was made.                                                                                          
+User: The name of the user who did the tweet                                                                                                                  
+Tweet: The content of the tweet                                                                                                                               
 
 For the purpose of analysis, we feauture engineered a new column 'Rating (0/1/2)', which reflects the intensity (how strong a tweet is when it comes to expressing emotions regarding climate change) of tweets.
 
