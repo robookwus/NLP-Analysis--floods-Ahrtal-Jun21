@@ -1,12 +1,12 @@
 work progress:
-XXXXXXXX00 ~80%
+XXXXXXXXx0 ~85%
 
 docs progress:
-XXXXx00000 ~45%
+XXXXXX0000 ~60%
 sub.wiki ~1% --> delete it, makes no sense for this project
 
 latex progress:
-XXXXXXX000 ~70%
+XXXXXXXX00 ~80%
 
 next tasks: add content to latex
 would be nice: geolocation using twitter api (--> will just include it in the end, but not work on it)
