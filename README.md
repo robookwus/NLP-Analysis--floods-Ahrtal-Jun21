@@ -1,18 +1,11 @@
 work progress:
-XXXXXXXXx0 ~85%
+XXXXXXXXXX ~100%
 
-docs progress:
-XXXXXX0000 ~60%
-sub.wiki ~1% --> delete it, makes no sense for this project
+next tasks:
+delete sub.wiki
 
-latex progress:
-XXXXXXXX00 ~80%
 
-next tasks: add content to latex
-would be nice: geolocation using twitter api (--> will just include it in the end, but not work on it)
-add more ideas in the end that we did not get to.
 
-(full) days left to submit = 1
 # NLP-Analysis--floods-Ahrtal-Jun21
 Analyzing how the floods in the German Ahrtal (Jun21) impacted the public opinion regarding climate change.
 
