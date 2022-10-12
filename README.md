@@ -22,9 +22,9 @@ Our main focus here is to find the answers to the following major questions:
 ---------
 Tweet Custom Classification, based on self-labelled dataset. 
 Employing a new idea: #cherrypicking . Two sets of labels, first 100 vs cherry-picked labels (200-300).
-0: Not interested in change at all, climate change is a lie.
-1: I do not know, no opinion (not leaning towards either side strongly)
-2: Climate Crisis is NOW.
+-0: Not interested in change at all, climate change is a lie.
+-1: I do not know, no opinion (not leaning towards either side strongly)
+-2: Climate Crisis is NOW.
 ---------
 
 
