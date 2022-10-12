@@ -2,7 +2,7 @@ work progress:
 XXXXXXXXXX ~100%
 
 next tasks:
-delete sub.wiki
+delete sub.wiki and
 self-publish with good open-source license, either MIT or Creative Commons.
 
 MIT Licensed (2022) 
