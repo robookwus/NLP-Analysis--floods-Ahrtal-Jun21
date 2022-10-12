@@ -4,6 +4,7 @@ XXXXXXXXXX ~100%
 next tasks:
 delete sub.wiki
 
+### ! >>>> Recent edit: replaced intensity with classification in this readme-file.
 
 
 # NLP-Analysis--floods-Ahrtal-Jun21
@@ -12,8 +13,16 @@ Analyzing how the floods in the German Ahrtal (Jun21) impacted the public opinio
 Our main focus here is to find the answers to the following major questions:
 
 1: Total number of tweets (frequency) each day before and after the floods.                                                                                       
-2: Overall intensity of all the tweets pre- and post- event.                                                                                                
-3: Overall intensity of the tweets of the same users pre- and post- event.
+2: Overall classification of all the tweets pre- and post- event.                                                                                                
+3: Overall classification of the tweets of the same users pre- and post- event.
+
+###
+Tweet Custom Classification, based on self-labelled dataset. 
+Employing a new idea: #cherrypicking Cherry-Picking.
+0: Not interested in change at all, climate change is a lie.
+1: I do not know, no opinion (not leaning towards either side strongly)
+2: Climate Crisis is NOW.
+###
 
 
 DATA description:
