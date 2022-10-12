@@ -3,6 +3,9 @@ XXXXXXXXXX ~100%
 
 next tasks:
 delete sub.wiki
+self-publish with good open-source license, either MIT or Creative Commons.
+
+MIT Licensed (2022) 
 
 ### ! >>>> Recent edit: replaced intensity with classification in this readme-file.
 
