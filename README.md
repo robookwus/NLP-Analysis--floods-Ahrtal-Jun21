@@ -4,7 +4,7 @@ XXXXXXXXXX ~100%
 next tasks:
 -delete sub.wiki and
 -self-publish the .pdf with good open-source license, either MIT or Creative Commons.
--maybe share result of the human who cherrypicked our second data set for our support vector machine classifying algorithm from https://www.politicalcompass.org/
+-maybe share result of the human who cherrypicked our second data set for our support vector machine classifying algorithm.
 
 MIT Licensed (2022) 
 
